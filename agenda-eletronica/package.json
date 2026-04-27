@@ -1,0 +1,20 @@
+{
+  "name": "agenda-eletronica",
+  "version": "1.0.0",
+  "description": "Projeto de Agenda Eletrônica - Node.js com PostgreSQL",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "pg": "^8.7.1"
+  },
+  "keywords": [
+    "agenda",
+    "eventos",
+    "node.js",
+    "postgresql"
+  ],
+  "author": "",
+  "license": "ISC"
+}
